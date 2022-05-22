@@ -1,2 +1,2 @@
 # Sentiment-analysis
-Sentiment analysis using NLP
+Sentiment analysis using nltk
